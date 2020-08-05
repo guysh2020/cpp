@@ -1,2 +1,4 @@
 C:\Users\guysh\OneDrive\Documents\study\mygit\cpp\mysql-with-cpp\x64\Debug\mysql_cpp.exe
 C:\Users\guysh\OneDrive\Documents\study\mygit\cpp\mysql-with-cpp\x64\Debug\mysql_cpp.pdb
+C:\Users\guysh\OneDrive\Documents\mygit\cpp\mysql-with-cpp\x64\Debug\mysql_cpp.exe
+C:\Users\guysh\OneDrive\Documents\mygit\cpp\mysql-with-cpp\x64\Debug\mysql_cpp.pdb
